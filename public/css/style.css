@@ -1,0 +1,12 @@
+img.crop_image {
+    display: block;
+
+    /* This rule is very important, please don't ignore this */
+    max-width: 100%;
+}
+
+label.error {
+    color: #dc3545;
+    font-size: 14px;
+    font-weight: normal;
+}
